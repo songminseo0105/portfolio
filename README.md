@@ -15,3 +15,4 @@
 |---|---|---|
 | [고객 이탈 예측](./customer-churn-prediction) | LightGBM 기반 고객 이탈 예측, F1-Score 0.887 | 코드 + README |
 | [연료 유형 분류](./fuel-type-classification) | OLS~SVM 단계적 모델 비교를 통한 연료 유형 분류 | 보고서(PDF) + README |
+| [Symbolic Regression 연구](./symbolic-regression-study) | 물리 법칙 데이터로 SR 방법론 검증 (라이브러리 활용 + 직접 구현) | 코드 3종 + README |
